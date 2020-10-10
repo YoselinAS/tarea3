@@ -1,0 +1,56 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/templates/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.link-fime{
+  color:#28a745;
+  text-decoration: none;
+  background-color: transparent;
+}
+/* Selector individual id="" en el html */
+/* #tituloRed {
+  front-size :36px;
+  color: red;
+  font-family:'Open sans';
+}
+*/
+/* Selector global a etiquetas  */
+/*h1{
+  font-size:26px;
+  color:red;
+  font-family:'Open Sans';
+}
+*/
+/* Medaiante , metodo de Class=" en html generico"*/
+.tituloRed{
+  font-size:36px;
+  color: green;
+  font-family: 'Open Sans';
+}
+
+.roboto-font{
+font-family: 'Roboto', sans-serif;
+}
+
+.bg-fime{
+  background-color: #28a745; !important;
+}
